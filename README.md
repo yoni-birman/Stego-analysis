@@ -14,4 +14,9 @@ This the cover image:
 
 It can be seen that the cover image is gradually distorted with embedding of the data:
 
+![Image of LSB](Background-stego/stego-back5-1.png)
+
 Finally, with the embedding of the 6 books into more significant bits the distortion is noticeable:
+
+![Image of LSB](Background-stego/stego-back7-1.png)
+
