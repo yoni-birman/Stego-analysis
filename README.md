@@ -1,6 +1,6 @@
 # LSB steganography
 
-Steganography is the practice of concealing data (the secret) inside other data (cover) such that hidden data cannot be noticed by an unaware party. In the presentation, we demonstrated   LSB steganography, where the secret data is encoded into and communicated in one or several least significant bits of the cover image. This could the LSB of the pixel's values of the cover image, defined as spatial domain steganography. 
+Steganography is the practice of concealing data (the secret) inside other data (cover) such that the hidden data cannot be noticed by an unaware party. In the presentation, we demonstrated the application of LSB steganography, where the secret data is encoded into and communicated in one or several least significant bits of the cover image. This could the least significant bits of the pixel's values of the cover image, defined as spatial domain steganography. 
 
 ![Image of LSB](/Background-stego/Screenshot%20(175).png)
 
@@ -12,7 +12,7 @@ This the cover image:
 
 ![Image of LSB](Background-stego/stego-back1-1.png)
 
-It can be seen that the cover image is gradually distorted with embedding of the data:
+It can be seen that the cover image is gradually distorted with embedding of the secret data:
 
 ![Image of LSB](Background-stego/stego-back5-1.png)
 
