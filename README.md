@@ -10,8 +10,8 @@ During the presentation, we secretly embedded the content of six books in the ba
 
 This the cover image: 
 
-
+![Image of LSB](Background-stego/stego-back1-1.png)
 
 It can be seen that the cover image is gradually distorted with embedding of the data:
 
-Finally, with the embedding of the 6 books the distortion is noticeable:
+Finally, with the embedding of the 6 books into more significant bits the distortion is noticeable:
